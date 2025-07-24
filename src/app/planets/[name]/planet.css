@@ -1,0 +1,50 @@
+.planet-header {
+  font-size: 2rem;
+}
+.info-container {
+  margin: 1rem;
+  border: 1.5px solid rgb(88, 86, 86);
+  border-radius: 0.5rem;
+  padding: 0.5rem 2rem;
+}
+.info-container p:first-of-type {
+  font-size: 0.8rem;
+  color: gray;
+}
+.info-container p:last-of-type {
+  font-size: 2.5rem;
+  color: white;
+}
+
+.mercury {
+  background-color: #419ebb;
+}
+
+.venus {
+  background-color: #eda249;
+}
+
+.earth {
+  background-color: #6d2ed5;
+}
+.mars {
+  background-color: #d14c32;
+}
+.jupiter {
+  background-color: #d83a34;
+}
+
+.saturn {
+  background-color: #cd5120;
+}
+
+.uranus {
+  background-color: #1ec1a2;
+}
+.neptune {
+  background-color: #2d68f0;
+}
+
+button:hover {
+  background-color: gray;
+}
